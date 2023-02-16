@@ -1,0 +1,26 @@
+theme: jekyll-theme-midnight
+excerpt_separator: <!--end-excerpt-->
+
+title: Formation | A rule-based JavaScript Form Validation Library
+description: Rule-based, cross-browser, client side HTML form validation library written in JavaScript
+author:
+ name: Derek Rosenzweig
+ twitter: ozzyogkush
+
+# Jekyll-SEO-tag front matter
+twitter:
+  username: ozzyogkush
+social:
+  name: Derek Rosenzweig
+  links:
+    - https://twitter.com/ozzyogkush
+    - https://github.com/ozzyogkush
+    - https://www.linkedin.com/in/derek-rosenzweig-80571693/
+
+timezone: 'UTC'
+exclude:
+  - .git
+  - .idea
+  - .sass-cache
+  - Gemfile
+  - Gemfile.lock
